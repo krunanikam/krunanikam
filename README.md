@@ -16,9 +16,7 @@
 <a href="https://www.linkedin.com/in/karuna-nikam-a37371230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karuna-nikam-a37371230" height="30" width="40" /></a>
 <a href="https://medium.com/@karunanikam379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@karunanikam379" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/karunanikam379" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="karunanikam379" height="30" width="40" />
-</a>
-
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="karunanikam379" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Luna379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/luna379" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Karuna_379/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/karuna_379/" height="30" width="40" /></a>
 <a href="https://twitter.com/karunanikam379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karunanikam379" height="30" width="40" /></a>
