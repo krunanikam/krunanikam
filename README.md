@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **AIML**
 
-- 🌱 I’m currently learning **Competitive programming**
+- 🌱 I’m currently learning [https://karunasportfolio.netlify.app/)
+
+- 💬 See my portfolio here **ML, DL, NLP, Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/krunanikam/](https://github.com/krunanikam/)
 
